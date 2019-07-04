@@ -1,2 +1,3 @@
 com/ibm/rest/ApplicationConfig.class
+com/ibm/main/MainClass.class
 com/ibm/rest/LogTestResource.class
